@@ -11,4 +11,4 @@ Java Calculator
   <li>Run it: java Calculator</li>
 </ul>
 
-Faddi&copy;Susanto
+Faddi Susanto&copy;2020
