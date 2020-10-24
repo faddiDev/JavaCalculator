@@ -11,4 +11,6 @@ Java Calculator
   <li>Run it: java Calculator</li>
 </ul>
 
+Check my video how to create from 0 to hero code : <a href="https://youtu.be/WsfZkz-tJxs">Calculator Java on Youtube</a>
+
 Faddi Susanto&copy;2020
